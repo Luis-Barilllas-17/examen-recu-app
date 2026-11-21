@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Mis tareas</string>
+    <string name="tasks_title">Tareas del día</string>
+    <string name="tasks_summary">%1$d pendientes · %2$d completadas</string>
+    <string name="empty_tasks">Todavía no hay tareas. Agrega la primera.</string>
+    <string name="add_task">Agregar tarea</string>
+    <string name="add_title">Nueva tarea</string>
+    <string name="description_hint">Descripción de la tarea</string>
+    <string name="save">Guardar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="description_required">Escribe una descripción</string>
+    <string name="task_detail">Detalle de la tarea</string>
+    <string name="description_label">Descripción</string>
+    <string name="status_label">Estado</string>
+    <string name="created_label">Fecha de creación</string>
+    <string name="pending">Pendiente</string>
+    <string name="completed">Completada</string>
+    <string name="mark_completed">Marcar como completada</string>
+    <string name="delete_task">Eliminar tarea</string>
+    <string name="delete_confirmation">¿Eliminar esta tarea?</string>
+    <string name="delete">Eliminar</string>
+    <string name="back">Volver</string>
+    <string name="task_missing">Esta tarea ya no existe.</string>
+</resources>
