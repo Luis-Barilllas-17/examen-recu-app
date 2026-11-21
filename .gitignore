@@ -1,4 +1,7 @@
 *.iml
+.idea/
+app/google-services.json
+app/src/main/keepRules/
 .gradle
 /local.properties
 /.idea/caches
